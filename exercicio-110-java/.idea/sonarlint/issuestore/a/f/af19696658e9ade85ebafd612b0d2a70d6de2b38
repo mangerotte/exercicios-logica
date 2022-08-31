@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚñÆ«8—¢Æ‹¯0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚñÆ«8¦¢Æ‹¯0
+0
+java:S1220""Move this file to a named package.
+W
+java:S1854":Remove this useless assignment to local variable "humano".(ŸšƒÆ8°¤Æ‹¯0
+E
+java:S1659"#Declare "menor" on a separate line.(âªñ´ÿÿÿÿÿ8¿¤Æ‹¯0
+D
+java:S1659"'Declare "nome_leve" on a separate line.(ÚñÆ«8¿¤Æ‹¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡äÌïüÿÿÿÿ8¿¤Æ‹¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´­Ó°ùÿÿÿÿ8¿¤Æ‹¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïäÄÜøÿÿÿÿ8¿¤Æ‹¯0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ý©»œùÿÿÿÿ8¿¤Æ‹¯0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ìê“Ïûÿÿÿÿ8¿¤Æ‹¯0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¬³á¹8¿¤Æ‹¯0
